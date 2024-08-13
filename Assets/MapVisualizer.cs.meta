@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8dafa27707fdaeb458c95607ca5e59d2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - generateMap: {instanceID: 0}
+  - solidPrefab: {fileID: 2373843774033871809, guid: 748756a36877f124ea49ffd801b2f2ae, type: 3}
+  - airPrefab: {fileID: 4803749283952780475, guid: c59e7228f55b7984cbf0261c032b4543, type: 3}
+  executionOrder: 200
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
